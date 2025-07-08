@@ -1,4 +1,3 @@
-```markdown
 # Automated Network Programmability Using OpenConfig YANG Models and NETCONF Protocol
 
 **저자:** Abderrahim Amlou  
@@ -177,4 +176,3 @@
 서로 연결되어 있으며, OOB 관리 스위치를 통해 시스템의 마이크로서비스와 통신합니다.  
 빨간색 점선 화살표는 네트워크 장치에서 notification service로 전송되는 알림을 나타냅니다.  
 검은색 실선은 장치 간의 일반적인 네트워크 연결을 나타냅니다.
-```
