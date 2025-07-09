@@ -1,7 +1,3 @@
-# Automated Network Programmability Using OpenConfig YANG Models and NETCONF Protocol
-
-![논문 썸네일](paperreview/250708/img/a.png)
-
 **저자:** Abderrahim Amlou  
 **Publisher:** IEEE Xplore  
 **키워드:** NETCONF, Network automation, Network configuration, Network management, OpenConfig, YANG model
