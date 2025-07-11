@@ -1,13 +1,9 @@
 # Intent based zero touch service chaining layer for SDN
 
 
-- - -
-
 
 ![Fig.2.jpg](/img/paperreview/250711/Fig.2.jpg)
 
-
-- - -
 
 
 | **Author** | B. Martini, M. Gharbaoui, P. Castoldi |
@@ -16,13 +12,8 @@
 | **Cite** | Martini, Barbara, Molka Gharbaoui, and Piero Castoldi. "Intent-based zero-touch service chaining layer for software-defined edge cloud networks." Computer Networks 212 (2022): 109034. |
 
 
-- - -
-
 
 ==Keyword : Intent-based Networking(IBN), Service chaining, Edge networking, SDN, NFV==
-
-
-- - -
 
 
 
