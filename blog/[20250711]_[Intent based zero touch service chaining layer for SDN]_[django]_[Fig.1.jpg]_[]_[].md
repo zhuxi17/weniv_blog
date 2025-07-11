@@ -19,7 +19,7 @@
 - - -
 
 
-==*** Keyword : Intent-based Networking(IBN), Service chaining, Edge networking, SDN, NFV***==
+==Keyword : Intent-based Networking(IBN), Service chaining, Edge networking, SDN, NFV==
 
 
 - - -
