@@ -3,7 +3,7 @@ const siteConfig = {
   repositoryName: "weniv_blog",    // ← GitHub 저장소 이름
   mainColor: "#3498db",            // 원하는 색상
   textColor: "#333333",            // 텍스트 색상
-  blogTitle: "주희의 블로그",     // 원하는 블로그 이름
+  blogTitle: "Wanderlust",     // 원하는 블로그 이름
 };
 
 // 여러명의 저자가 글을 쓸 경우 프로필 설정, default는 0번째 사용자
