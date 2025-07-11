@@ -37,9 +37,7 @@
 
 ## [  Intent layer이 배치될 환경 ]
 
-<p align="center">
-  <img src="/img/paperreview/250711/Fig.1.jpg" alt="Intent Layer 구조" width="600">
-</p>
+![Fig.1.jpg](/img/paperreview/250711/Fig.1.jpg)
 
 1. Intent layer는 Service Orchestrator (application layer)와 SDN Controller 사이에 위치하는 미들웨어로서 작동
 
